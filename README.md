@@ -11,7 +11,7 @@ Este repositório contém um script **.bat** que realiza a leitura de pastas sel
 ## **Como Usar**
 
 1. **Configuração Inicial**: 
-   - Edite o arquivo **`file_cleaner.bat`** para incluir os caminhos das pastas que você deseja monitorar.
+   - Edite o arquivo **`run.bat`** para incluir os caminhos das pastas que você deseja monitorar.
    - O script irá verificar a data de criação dos arquivos em cada pasta e excluir aqueles com mais de 30 dias.
 
 2. **Execução do Script**:
@@ -26,4 +26,3 @@ Dentro do arquivo `.bat`, você encontrará uma parte como esta:
 
 ```batch
 set FOLDER_PATH=C:\Caminho\Para\Sua\Pasta
-set DAYS_OLD=30
