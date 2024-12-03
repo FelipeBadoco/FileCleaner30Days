@@ -15,7 +15,7 @@ Este repositório contém um script **.bat** que realiza a leitura de pastas sel
    - O script irá verificar a data de criação dos arquivos em cada pasta e excluir aqueles com mais de 30 dias.
 
 2. **Execução do Script**:
-   - Para rodar o script, basta clicar duas vezes no arquivo **`file_cleaner.bat`** ou executá-lo via linha de comando.
+   - Para rodar o script, basta clicar duas vezes no arquivo **`run.bat`** ou executá-lo via linha de comando.
    
 3. **Personalização**: 
    - Caso deseje alterar o critério de exclusão, como o número de dias, você pode editar a variável de configuração diretamente no código.
